@@ -1,1 +1,1 @@
-# ChapelHillRepository
+# Workshop Repository
